@@ -1,0 +1,44 @@
+corpo {
+    text-align : centro;
+    cor de fundo :  # E1C603 ;
+
+}
+# ID
+<! - - -
+PARA  CRIAR  A  ID  USA  # NOME  DE  IDENTIFICAÇÃO DA  IMAGEM _
+--- >
+
+{
+    largura :  100 % ;
+  <! - - -
+qu e o utilizamos largura : 100% deixamos a imagem escolhida com 100% de largura da tela , independente do tamanho da tela
+- - - >
+}
+
+h1 {
+  altura :  150px ; _
+  <! - - -
+definir a altura do título principal
+- - - >
+    col ou :  # C308A7 ;
+        
+  <! - - -
+definir  um  cor  do  t ítulo principal
+--- >
+  cor de fundo :   # EDC100 ;
+<! - - -
+definir  um  cor  de  fundo  do  t ítulo principal
+--- >
+  tamanho da fonte : 80px;
+   <! - - -
+definir  a  altura  do  t ítulo principal
+--- >
+  estilo da fonte :  itálico ;
+ 
+}
+h2 {
+    Cor :    # D02C0F
+<! ---
+definir um cor do segundo título
+--- >
+}
