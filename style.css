@@ -1,28 +1,43 @@
-corpo {
-    text-align : centro;
-    cor de fundo :  #00008B ;
+body{
+    text-align: center;
+    background-color: #00008B;
 
 }
-# ID
+#Id
 
 
 {
-    largura :  100 % ;
+    width: 100%;
   
 }
 
-h1 {
-  altura :  150px; _
+h1{
+  height: 150px;
   
-    
-  cor de fundo :#0000CD;
+    color: #C308A7;
+        
 
-  tamanho da fonte :80px;
-  
-  estilo da fonte :itálico ;
+  background-color:  #0000CD;
+ <!---
+define a cor de fundo do título principal
+--->
+  font-size: 80px;
+   <!---
+define a altura do título principal
+--->
+  font-style: italic;
  
 }
-h2 {
-  color: # 000000 ; 
-
+h2{
+    Color: #000000;
+ <!---
+define a cor do segundo título
+--->
 }
+
+
+
+
+
+
+
